@@ -16,6 +16,9 @@
 - 🥅 Objectifs 2021 : Contribuer aux projets Open Source
 - ⚡ Explicit is better than implicit !
 
+---
+
+
 ### Connectez-vous avec moi :
 
 [<img align="left" alt="codingben.space" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
