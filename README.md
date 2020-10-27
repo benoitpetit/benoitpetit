@@ -49,8 +49,7 @@
 
 <br />
 <br />
-
----
+<br />
 
 [website]: https://codingben.space
 [course]: http://vsCodeHero.com
