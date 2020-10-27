@@ -53,7 +53,7 @@
 
 [website]: https://codingben.space
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codingben
+[twitter]: https://twitter.com/codingben_
 [instagram]: https://instagram.com/codingben_
 [linkedin]: https://www.linkedin.com/in/benoit-petit-110/
 [medium]: https://medium.com/@codingben
