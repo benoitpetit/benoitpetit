@@ -1,9 +1,6 @@
-### Salut, moi c'est Benoit Petit 👋
+# Salut, moi c'est Benoit Petit 👋
 
-[![Website](https://img.shields.io/website?label=codingben.space&style=for-the-badge&url=https%3A%2F%2Fcodingben.space)](https://codingben.space)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codingben_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodingben_&screen_name=codingben_)
-
-## Je suis un mari, un père, et un développeur !! 👨‍💻
+## Je suis père et développeur !! 👨‍💻
 
 👨‍🎓 En formation **concepteur et développeur d'application** chez **ENI** _"Ecole Nationale d'informatique"_ cette formation me permettra d'obtenir un diplôme BAC+4.
 <br />
