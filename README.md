@@ -1,6 +1,6 @@
 # Salut, moi c'est Benoit Petit 👋
 
-## Je suis père et développeur !! 👨‍💻
+## Je suis père et développeur !! 🦄 👨‍💻
 
 👨‍🎓 En formation **concepteur et développeur d'application** chez **ENI** _"Ecole Nationale d'informatique"_ cette formation me permettra d'obtenir un diplôme BAC+4.
 <br />
@@ -14,7 +14,6 @@
 - ⚡ Explicit is better than implicit !
 
 ---
-
 
 ### Connectez-vous avec moi :
 
