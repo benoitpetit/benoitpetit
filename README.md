@@ -18,9 +18,7 @@
 [<img align="left" alt="codingben.space" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codingben | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codingben | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codingben | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codingben | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
+[<img align="left" alt="codingben | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev.to]
 <br />
 
 ### Langues et outils :
@@ -45,9 +43,7 @@
 <br />
 <br />
 
-[website]: https://codingben.space
-[course]: http://vsCodeHero.com
+[website]: https://benoitpetit.dev
 [twitter]: https://twitter.com/codingben_
-[instagram]: https://instagram.com/codingben_
 [linkedin]: https://www.linkedin.com/in/benoit-petit-110/
-[medium]: https://medium.com/@codingben
+[dev.to]: https://dev.to/codingben_
