@@ -1,8 +1,6 @@
 # Salut, moi c'est Benoit Petit 👋
 
-## Je suis père et développeur !! 🦄 👨‍💻
-
-👨‍🎓 En formation **concepteur et développeur d'application** chez **ENI** _"Ecole Nationale d'informatique"_ cette formation me permettra d'obtenir un diplôme BAC+4.
+👨‍🎓 En formation **concepteur et développeur d'application** chez **ENI** _"Ecole Nationale d'informatique"_ 
 <br />
 
 > ⚠️ Je suis en recherche de stage pour la periode **du 21 Juin au 13 Aout 2021**
