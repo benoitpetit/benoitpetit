@@ -1,6 +1,6 @@
 # Salut, moi c'est Benoit Petit 👋
 
-👨‍🎓 En formation **concepteur et développeur d'application** chez **ENI** _"Ecole Nationale d'informatique"_ 
+👨‍🎓 En formation **concepteur et développeur d'application** chez **ENI** _"Ecole d'informatique"_ 
 <br />
 
 > ⚠️ Je suis en recherche de stage pour la periode **du 21 Juin au 13 Aout 2021**
