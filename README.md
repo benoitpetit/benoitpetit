@@ -1,6 +1,5 @@
 # Salut 👋
 
-👨‍🎓 En formation **concepteur et développeur d'application** chez **ENI** _"Ecole d'informatique"_ 
 <br />
 
 - 👨‍💻 Concepteur et Développeur d'application web.
