@@ -1,7 +1,5 @@
 # Salut 👋
 
-<br />
-
 - 👨‍💻 Concepteur et Développeur d'application web.
 - 🛠 Php, Symfony, Nodejs, React.
 - 👨‍🎓 Je suis diplômé de la Webforce3 Lille où j’ai étudié l'intégration et le développement Web.
