@@ -6,7 +6,6 @@
 - 👨‍🏫 J’effectue continuellement une veille informatique pour me tenir au courant des avancées technologiques.
 - 🚀 J'entame une formation de perfectionnement chez ENI "Ecole d'informatique".
 - ⚠️ Je suis à la recherche d'un stage pour finaliser cette formation du 21 juin au 13 août 2021. 
----
 
 ### Connectez-vous avec moi :
 
