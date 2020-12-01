@@ -3,14 +3,12 @@
 👨‍🎓 En formation **concepteur et développeur d'application** chez **ENI** _"Ecole d'informatique"_ 
 <br />
 
-> ⚠️ Je suis en recherche de stage pour la periode **du 21 Juin au 13 Aout 2021**
-
-- 🌱 Actuellement en apprentissage sur les technologies qui gravite autour de javascript <img alt="JavaScript" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> et egallement sur Python 🐍 et les frameworks Flask et Django
-- 💪 J’effectue continuellement une veille informatique pour me tenir au courant des avancées technologiques et langages informatiques.
-- 👯 Je cherche à collaborer avec d'autres créateurs de contenu
-- 🥅 Objectifs 2021 : Contribuer aux projets Open Source
-- ⚡ Explicit is better than implicit !
-
+- 👨‍💻 Concepteur et Développeur d'application web.
+- 🛠 Php, Symfony, Nodejs, React.
+- 👨‍🎓 Je suis diplômé de la Webforce3 Lille où j’ai étudié l'intégration et le développement Web.
+- 👨‍🏫 J’effectue continuellement une veille informatique pour me tenir au courant des avancées technologiques.
+- 🚀 J'entame une formation de perfectionnement chez ENI "Ecole d'informatique".
+- ⚠️ Je suis à la recherche d'un stage pour finaliser cette formation du 21 juin au 13 août 2021. 
 ---
 
 ### Connectez-vous avec moi :
