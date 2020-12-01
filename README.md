@@ -1,4 +1,4 @@
-# Salut, moi c'est Benoit Petit 👋
+# Salut 👋
 
 👨‍🎓 En formation **concepteur et développeur d'application** chez **ENI** _"Ecole d'informatique"_ 
 <br />
