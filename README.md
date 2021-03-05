@@ -6,13 +6,6 @@
 - 👨‍🏫 J’effectue continuellement une veille informatique pour me tenir au courant des avancées technologiques et langages informatiques.
 - 🚀 Je suis une formation de perfectionnement chez ENI "Ecole d'informatique" dans la conception d'application
 - ⚠️ Je suis à la recherche d'un stage pour finaliser cette formation (du 21 juin au 13 août 2021).
-### Connectez-vous avec moi :
-
-[<img align="left" alt="codingben.space" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codingben | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codingben | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codingben | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev.to]
-<br />
 
 ### Langues et outils :
 <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
