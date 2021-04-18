@@ -1,23 +1,38 @@
-# Salut 👋
+<img alt="Benoit Petit" src="./assets/banner.jpg" align="center"/>
 
-- 👨‍💻 Concepteur et Développeur d'application web.
-- 🛠 Php, Symfony, Nodejs, React.
-- 👨‍🎓 Je suis diplômé de la Webforce3 de Lille où j’ai étudié l'intégration et le développement d'appplication Web et Mobile.
-- 👨‍🏫 J’effectue continuellement une veille informatique pour me tenir au courant des avancées technologiques et langages informatiques.
-- 🚀 Je suis une formation de perfectionnement chez ENI "Ecole d'informatique" dans la conception d'application
-- ⚠️ Je suis à la recherche d'un stage pour finaliser cette formation (du 21 juin au 13 août 2021).
+<h2>Hello ! moi c'est Benoît Petit</h2>
 
-### Langues et outils :
-<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="Symfony" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+![](https://komarev.com/ghpvc/?username=benoitpetit&color=lightgrey&style=flat-square)
 
-[website]: https://benoitpetit.dev
-[twitter]: https://twitter.com/codingben_
-[linkedin]: https://www.linkedin.com/in/benoit-petit-110/
-[dev.to]: https://dev.to/codingben_
+### 👨🏻‍💻 &nbsp;Qui suis-je ?
+
+J'ai 33 ans. Je suis Concepteur et Développeur d'application web diplômé de la WebForce 3 Lille où j’ai étudié l'intégration et le développement d'appplication Web et Mobile. J’effectue continuellement une veille informatique pour me tenir au courant des avancées technologiques et langages informatiques. 
+Pour plus d'information: https://benoitpetit.dev
+
+### 🛠 &nbsp;Stack Technique
+
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=Symfony)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=A8B9CC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+![Jetbrains](https://img.shields.io/badge/-Jetbrains-05122A?style=flat&logo=Jetbrains&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benoitpetit&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benoitpetit&layout=compact&hide=html&theme=vue)
+
+### 🤝🏻 &nbsp;Connectez-vous avec moi
+
+<p>
+    <a href="https://benoitpetit.dev"><img src="https://img.shields.io/badge/-Benoit PETIT WEBSITE-24B993?style=flat"/></a>
+    <a href="https://linkedin.com/in/benoit-petit-110"><img src="https://img.shields.io/badge/-Benoit Petit-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/codingben_"><img src="https://img.shields.io/badge/-@codingben__-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+    <a href="mailto:110.benp@gmail.com"><img src="https://img.shields.io/badge/-110.benp@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
