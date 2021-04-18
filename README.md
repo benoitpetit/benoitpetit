@@ -2,7 +2,8 @@
 
 <h2>Hello ! moi c'est Benoît Petit</h2>
 
-![](https://komarev.com/ghpvc/?username=benoitpetit&color=lightgrey&style=flat-square)
+![](https://komarev.com/ghpvc/?username=benoitpetit&color=lightgrey&style=flat)
+
 
 ### 👨🏻‍💻 &nbsp;Qui suis-je ?
 
