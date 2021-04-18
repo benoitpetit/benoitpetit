@@ -13,7 +13,7 @@ Pour plus d'information: https://benoitpetit.dev
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=Symfony)&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript&)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=A8B9CC)&nbsp;
