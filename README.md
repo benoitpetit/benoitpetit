@@ -37,3 +37,13 @@ Pour plus d'information: https://benoitpetit.dev
     <a href="https://twitter.com/codingben_"><img src="https://img.shields.io/badge/-@codingben__-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
     <a href="mailto:110.benp@gmail.com"><img src="https://img.shields.io/badge/-110.benp@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
+<p>
+
+### ❤️ Aidez-moi avec des ∆ BAT: 
+
+```
+0x598774368f2E443F4dF77E87aF6a5Efd2AA93e54
+```
+
+</p>
