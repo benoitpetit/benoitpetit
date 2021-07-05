@@ -24,18 +24,12 @@ Pour plus d'information: https://benoitpetit.dev
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytique
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benoitpetit&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benoitpetit&layout=compact&hide=html&theme=vue)
-
 ### 🤝🏻 &nbsp;Connectez-vous avec moi !
 
 <p>
     <a href="https://benoitpetit.dev"><img src="https://img.shields.io/badge/-benoitpetit.dev-24B993?style=flat"/></a>
     <a href="https://linkedin.com/in/benoit-petit-110"><img src="https://img.shields.io/badge/-Benoit Petit-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/codingben_"><img src="https://img.shields.io/badge/-@codingben__-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-    <a href="mailto:110.benp@gmail.com"><img src="https://img.shields.io/badge/-110.benp@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
