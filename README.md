@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=benoitpetit&label=Profile%20views&color=0e75b6&style=flat" alt="benoitpetit" /> </p>
 
-- 🔭 I’m currently working on [api2hub.com](api2hub.com) ang **goAuth**
+- 🔭 I’m currently working on [api2hub.com](https://api2hub.com) ang **goAuth**
 - 🌱 I’m currently learning **golang**
 - 👨‍💻 All of my projects are available at [benoitpetit.dev/projects](https://benoitpetit.dev/projects)
 - 📝 I regularly write articles on [benoitpetit.dev/my-blog](benoitpetit.dev/my-blog)
