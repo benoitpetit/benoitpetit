@@ -1,18 +1,31 @@
-### 👋 Salut, moi c'est Ben
+# 👋 Salut, moi c'est Ben
+## Concepteur & Développeur d'applications web
+
 ```yaml
-- Nom: Benoit Petit
+# presentation
+- Nom: Benoit (Ben)
 - Age: 35 ans
-- Profession: Concepteur développeur d'applications web
+- Profession: Concepteur & Développeur d'applications web
 - Entreprise: Freelance
-- Lieu: 🇫🇷 Lille
-- Langages préférés: Node, Golang, Vue, Python
-- Loisirs: Résoudre des énigmes cryptographiques et collectionner les stickers de développeurs.
-- Héros: Le développeur anonyme qui a résolu le bug Y2K.
-- NPM: https://www.npmjs.com/~codingben_
-- Twitter: https://twitter.com/codingben_
-- Discord: codingben
-- Email: bs.7416@proton.me
+- Lieu: Lille, France
+- Langues: FR/EN
+- Langages:
+  - Node.js: création de serveurs web, d'API et d'outils en ligne de commande
+  - Golang: développement de microservices performants et sécurisés
+  - Vue.js: conception d'interfaces utilisateur réactives et élégantes
+  - Python: analyse de données, machine learning et automatisation de tâches
+- Loisirs: Résoudre des énigmes cryptographiques, coder/souder des trucs et collectionner les stickers de développeurs
+- Héros: Doctor Who, Reagan Ridley, Sheldon Cooper, Batman
+```
+
+```yaml
+# contact
 - Site: https://benoitpetit.dev
 - Blog: https://benoitpetit.dev/my-blog
 - Projets: https://benoitpetit.dev/projects
+- Email: contact@benoitpetit.dev
+- NPM: https://www.npmjs.com/~codingben
+- Threads: https://www.threads.net/@benoitpetit.dev
+- Instagram: https://www.instagram.com/benoitpetit.dev
+- Discord: codingben
 ```
