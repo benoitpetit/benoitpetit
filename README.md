@@ -9,13 +9,13 @@
 - Entreprise: Freelance
 - Lieu: Lille, France
 - Langues: FR/EN
+- Loisirs: Résoudre des énigmes cryptographiques, coder/souder des trucs et collectionner les stickers de dev
+- Héros: Doctor Who, Reagan Ridley, Sheldon Cooper, Batman
 - Langages:
   - Node.js: création de serveurs web, d'API et d'outils en ligne de commande
   - Golang: développement de microservices performants et sécurisés
   - Vue.js: conception d'interfaces utilisateur réactives et élégantes
   - Python: analyse de données, machine learning et automatisation de tâches
-- Loisirs: Résoudre des énigmes cryptographiques, coder/souder des trucs et collectionner les stickers de dev
-- Héros: Doctor Who, Reagan Ridley, Sheldon Cooper, Batman
 ```
 
 ```yaml
