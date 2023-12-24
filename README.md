@@ -2,7 +2,7 @@
 ## Concepteur & Développeur d'applications web
 
 ```yaml
-# presentation
+#presentation
 - Nom: Benoit (Ben)
 - Age: 35 ans
 - Profession: Concepteur & Développeur d'applications web
@@ -19,7 +19,7 @@
 ```
 
 ```yaml
-# contact
+#contact
 - Site: https://benoitpetit.dev
 - Blog: https://benoitpetit.dev/my-blog
 - Projets: https://benoitpetit.dev/projects
