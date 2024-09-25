@@ -21,11 +21,7 @@
 ```yaml
 #contact
 - Site: https://benoitpetit.dev
-- Blog: https://benoitpetit.dev/my-blog
+- Blog: https://blog.benoitpetit.dev
 - Projets: https://benoitpetit.dev/projects
 - Email: contact@benoitpetit.dev
-- NPM: https://www.npmjs.com/~codingben
-- Threads: https://www.threads.net/@benoitpetit.dev
-- Instagram: https://www.instagram.com/benoitpetit.dev
-- Discord: codingben
 ```
