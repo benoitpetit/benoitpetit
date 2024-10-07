@@ -31,6 +31,7 @@
 ```yaml
 #featured_projects
 - CML (Check My Logs): https://github.com/benoitpetit/cml
+- Goction : https://goction.github.io
 - DuckDuckGO-Chat-CLI: https://github.com/benoitpetit/duckduckgo-chat-cli
 - InsideVerseAPI: https://github.com/benoitpetit/inside-verse-api
 - Emailnator CLI: https://github.com/ethicalhcb/emailnator-cli
@@ -41,7 +42,7 @@
 ```yaml
 #contact_and_connect
 - Website: https://benoitpetit.dev
-- Blog: https://blog.benoitpetit.dev
+- Blog: https://benoitpetit.dev/blog
 - Projects: https://benoitpetit.dev/projects
 - Links: https://links.benoitpetit.dev
 - TwitterX: https://x.com/@devbyben
