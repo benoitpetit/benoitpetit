@@ -30,6 +30,7 @@
 
 ```yaml
 #featured_projects
+- JSrun : https://github.com/benoitpetit/jsrun-cli
 - CML (Check My Logs): https://github.com/benoitpetit/cml
 - Goction : https://goction.github.io
 - DuckDuckGO-Chat-CLI: https://github.com/benoitpetit/duckduckgo-chat-cli
