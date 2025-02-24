@@ -29,23 +29,10 @@
 ```
 
 ```yaml
-#featured_projects
-- JSrun : https://github.com/benoitpetit/jsrun-cli
-- CML (Check My Logs): https://github.com/benoitpetit/cml
-- Goction : https://goction.github.io
-- DuckDuckGO-Chat-CLI: https://github.com/benoitpetit/duckduckgo-chat-cli
-- InsideVerseAPI: https://github.com/benoitpetit/inside-verse-api
-- Emailnator CLI: https://github.com/ethicalhcb/emailnator-cli
-- Emailnator SDK: https://github.com/ethicalhcb/emailnator-sdk
-- Ljdhar: https://github.com/ethicalhcb/ljdhar
-```
-
-```yaml
 #contact_and_connect
-- Website: https://benoitpetit.dev
-- Blog: https://benoitpetit.dev/blog
-- Projects: https://benoitpetit.dev/projects
-- Links: https://links.benoitpetit.dev
-- TwitterX: https://x.com/@devbyben
+- Website: https://devbyben.fr
+- Blog: https://devbyben.fr/blog
+- Projects: https://devbyben.fr/projects
+- X: https://x.com/@devbyben
 - Reddit: https://reddit.com/u/craftedbyben
 ```
