@@ -33,6 +33,6 @@
 - Website: https://devbyben.fr
 - Blog: https://devbyben.fr/blog
 - Projects: https://devbyben.fr/projects
-- X: https://x.com/@devbyben
+- Mastodon: https://piaille.fr/@devbyben
 - Reddit: https://reddit.com/u/craftedbyben
 ```
