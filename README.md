@@ -34,5 +34,4 @@
 - Blog: https://devbyben.fr/blog
 - Projects: https://devbyben.fr/projects
 - Mastodon: https://piaille.fr/@devbyben
-- Reddit: https://reddit.com/u/craftedbyben
 ```
