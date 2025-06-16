@@ -89,6 +89,10 @@ func main() {
 
 ## 📝 Contenu Technique
 
+👉 **[Retrouvez tous mes articles sur devbyben.fr/blog](https://devbyben.fr/blog)**
+
+### 🌟 Domaines de Spécialisation
+
 | 🌟 Thématique       | 📝 Description                                                          |
 | ------------------- | ----------------------------------------------------------------------- |
 | **WebAssembly**     | Intégration Go/JavaScript et optimisation des performances              |
@@ -98,105 +102,6 @@ func main() {
 | **Open Source**     | Contributions et projets communautaires                                 |
 | **Performance Web** | Techniques d'optimisation des applications web modernes                 |
 | **Architecture**    | Conception de systèmes et intégration de services                       |
-
-👉 **[Retrouvez tous mes articles sur devbyben.fr/blog](https://devbyben.fr/blog)**
-
----
-
-## 🎯 Vues d'Ensemble
-
-### 🛠️ Stack Technique Complète
-
-```mermaid
-mindmap
-  root((DevByBen
-    Stack Tech))
-    (Core Languages)
-      Go
-        CLI Tools Development
-        WebAssembly Integration
-        High Performance APIs
-      JavaScript/TypeScript
-        Node.js Applications
-        Frontend Development
-        Automation Tools
-      Python
-        Data Processing
-        Automation Scripts
-    (Frontend)
-      Vue.js
-        Modern SPA
-        Component Architecture
-      React
-        WebAssembly Integration
-        State Management
-      Modern Web
-        Responsive Design
-        Progressive Web Apps
-    (Infrastructure)
-      DevOps
-        Docker
-        Ansible Automation
-        Linux Systems
-      Cloud
-        Multi-Cloud Strategy
-        CI/CD Pipelines
-    (Spécialisations)
-      WebAssembly
-        Go + JavaScript Bridge
-        Performance Critical Apps
-        Browser Native Speed
-      AI Integration
-        API Development
-        Prompt Engineering
-        Automation Workflows
-      Open Source
-        Community Contributions
-        Knowledge Sharing
-        Developer Tools
-```
-
-### 🌐 Domaines d'Expertise
-
-```mermaid
-mindmap
-  root((DevByBen
-    Expertise))
-    (Development)
-      CLI Development
-        Command Line Tools
-        Developer Interfaces
-      API Development
-        RESTful Services
-        Real-time Streaming
-      Developer Tools
-        Code Automation
-        Productivity Solutions
-    (Technologies)
-      WebAssembly
-        Cross-Platform Libraries
-        Go + JavaScript Bridge
-        Performance Optimization
-      AI Integration
-        API Integration
-        Prompt Engineering
-    (Web Solutions)
-      Frontend
-        Vue.js Applications
-        React + WebAssembly
-        Modern Web Standards
-      Backend
-        Go API Development
-        Node.js Services
-        System Design
-    (Community)
-      Technical Writing
-        Technology Tutorials
-        Best Practices
-      Open Source
-        Community Projects
-        Knowledge Sharing
-```
 
 ---
 
