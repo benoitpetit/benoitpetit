@@ -2,6 +2,7 @@
 
 🧑‍💻 **Développeur & Artisan Open Source** | 🔧 **Architecte de Solutions Modernes** | 🌟 **Spécialiste WebAssembly & Go** | ⚡ **Passionné par Go et WebAssembly**
 
+<a href="https://liberapay.com/devbyben/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 [![Portfolio](https://img.shields.io/badge/Portfolio-devbyben.fr-00D4AA?style=for-the-badge&logo=firefox)](https://devbyben.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-benoitpetit-181717?style=for-the-badge&logo=github)](https://github.com/benoitpetit)
 [![X.com](https://img.shields.io/badge/X.com-@devbyben-000000?style=for-the-badge&logo=x)](https://x.com/devbyben)
