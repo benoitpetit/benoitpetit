@@ -115,7 +115,7 @@ func main() {
 | 🌐 **Portfolio** | [devbyben.fr](https://devbyben.fr)                       | Site professionnel et showcase              |
 | 📝 **Blog**      | [devbyben.fr/blog](https://devbyben.fr/blog)             | Articles techniques et retours d'expérience |
 | 🚀 **Projets**   | [devbyben.fr/projects](https://devbyben.fr/projects)     | Portfolio de projets open source            |
-| 🐘 **Mastodon**  | [@devbyben@piaille.fr](https://piaille.fr/@devbyben)     | Réseau social décentralisé                  |
+| 🐘 **Mastodon**  | [@devbyben@devbyben.fr](https://devbyben.fr/@devbyben)     | Réseau social décentralisé                  |
 | 🐦 **X.com**     | [@devbyben](https://x.com/devbyben)                      | Annonces et discussions techniques          |
 | 💻 **GitHub**    | [github.com/benoitpetit](https://github.com/benoitpetit) | Code source et contributions                |
 
