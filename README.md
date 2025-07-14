@@ -6,7 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-devbyben.fr-00D4AA?style=for-the-badge&logo=firefox)](https://devbyben.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-benoitpetit-181717?style=for-the-badge&logo=github)](https://github.com/benoitpetit)
 [![X.com](https://img.shields.io/badge/X.com-@devbyben-000000?style=for-the-badge&logo=x)](https://x.com/devbyben)
-[![Mastodon](https://img.shields.io/badge/Mastodon-@devbyben-6364FF?style=for-the-badge&logo=mastodon)](https://piaille.fr/@devbyben)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@devbyben-6364FF?style=for-the-badge&logo=mastodon)](https://devbyben.fr/@devbyben)
 [![Email](https://img.shields.io/badge/Contact-contact@devbyben.fr-EA4335?style=for-the-badge&logo=gmail)](mailto:contact@devbyben.fr)
 
 👉 **[Découvrez tous mes projets sur devbyben.fr/projects](https://devbyben.fr/projects)**
