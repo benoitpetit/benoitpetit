@@ -1,13 +1,17 @@
 # 👋 Hi, I'm Ben
+🧑‍💻 **Développeur & Artisan Open Source**   🛠️ **Créateur d'Outils CLI** | 🤖 **Intégration IA** | ⚡ **Passionné par l'Automatisation**
 
-🧑‍💻 **Développeur & Artisan Open Source** | 🔧 **Architecte de Solutions Modernes** | 🌟 **Spécialiste WebAssembly & Go** | ⚡ **Passionné par Go et WebAssembly**
-
+### 💸 Soutenez-moi
 <a href="https://liberapay.com/devbyben/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
+### 🔗 Contact & Réseaux Sociaux
 [![Portfolio](https://img.shields.io/badge/Portfolio-devbyben.fr-00D4AA?style=for-the-badge&logo=firefox)](https://devbyben.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-benoitpetit-181717?style=for-the-badge&logo=github)](https://github.com/benoitpetit)
 [![X.com](https://img.shields.io/badge/X.com-@devbyben-000000?style=for-the-badge&logo=x)](https://x.com/devbyben)
 [![Mastodon](https://img.shields.io/badge/Mastodon-@devbyben-6364FF?style=for-the-badge&logo=mastodon)](https://devbyben.fr/@devbyben)
 [![Email](https://img.shields.io/badge/Contact-contact@devbyben.fr-EA4335?style=for-the-badge&logo=gmail)](mailto:contact@devbyben.fr)
+
+---
 
 👉 **[Découvrez tous mes projets sur devbyben.fr/projects](https://devbyben.fr/projects)**
 
@@ -19,37 +23,36 @@
 
 ```go
 type Developer struct {
-    Name                string
-    Profession          string
-    Location            string
-    Languages           []string
-    Experience          string
-    FocusAreas          []string
-    TechStack           []string
-    Specialties         []string
+    Name string
+    Profession string
+    Location string
+    Languages []string
+    Experience string
+    FocusAreas []string
+    TechStack []string
+    Specialties []string
 }
 
 func main() {
     ben := Developer{
-        Name:        "Benoit (Ben)",
-        Profession:  "Développeur & Artisan Solutions Open Source",
-        Location:    "🇫🇷 France",
-        Languages:   []string{"Français", "Anglais"},
-        Experience:  "8+ années",
+        Name: "Benoit (Ben)",
+        Profession: "Développeur & Artisan Solutions Open Source",
+        Location: "🇫🇷 France",
+        Languages: []string{"Français", "Anglais"},
+        Experience: "8+ années",
         FocusAreas: []string{
-            "🤖 Outils CLI et Interfaces IA",
-            "🚀 Solutions d'Automatisation",
-            "⚡ Applications Haute Performance",
-            "🔧 Intégration WebAssembly",
+            "🛠️ Outils CLI et Interfaces Développeur",
+            "🤖 Intégration IA et Automatisation",
+            "🚀 Solutions pour la Productivité",
+            "📦 APIs et SDKs",
         },
         TechStack: []string{
-            "Go", "React", "Vue.js", "Node.js", "Python",
-            "TypeScript", "JavaScript", "Docker", "Ansible",
-            "Linux", "WebAssembly", "Web3",
+            "Go", "JavaScript", "TypeScript", "Node.js", "Python",
+            "Vue.js", "React", "Docker", "Linux", "Git",
         },
         Specialties: []string{
-            "Outils CLI", "WebAssembly", "Automation",
-            "Architecture Logicielle", "Solutions DevOps",
+            "Command Line Tools", "IA Integration", "Developer Tools",
+            "API Development", "Open Source Solutions",
         },
     }
 }
@@ -78,31 +81,14 @@ func main() {
 
 ### 🌟 Domaines de Spécialisation
 
-- **WebAssembly** : Intégration Go/JavaScript et optimisation des performances
-- **Outils CLI** : Développement d'interfaces en ligne de commande
-- **IA & Automation** : Outils d'optimisation des interactions avec l'intelligence artificielle
-- **DevOps** : Solutions d'infrastructure et automatisation
-- **Open Source** : Contributions et projets communautaires
-- **Performance Web** : Techniques d'optimisation des applications web modernes
-- **Architecture** : Conception de systèmes et intégration de services
-
----
-
-## 📝 Contenu Technique
-
-👉 **[Retrouvez tous mes articles sur devbyben.fr/blog](https://devbyben.fr/blog)**
-
-### 🌟 Domaines de Spécialisation
-
 | 🌟 Thématique       | 📝 Description                                                          |
 | ------------------- | ----------------------------------------------------------------------- |
-| **WebAssembly**     | Intégration Go/JavaScript et optimisation des performances              |
-| **Outils CLI**      | Développement d'interfaces en ligne de commande                         |
-| **IA & Automation** | Outils d'optimisation des interactions avec l'intelligence artificielle |
-| **DevOps**          | Solutions d'infrastructure et automatisation                            |
-| **Open Source**     | Contributions et projets communautaires                                 |
-| **Performance Web** | Techniques d'optimisation des applications web modernes                 |
-| **Architecture**    | Conception de systèmes et intégration de services                       |
+| **🛠️ Outils CLI** | Développement d'interfaces en ligne de commande pour développeurs |
+| **🤖 Intégration IA** | Outils d'optimisation des interactions avec l'IA |
+| **📦 APIs & SDKs** | Création d'interfaces et bibliothèques pour développeurs |
+| **🔧 Automatisation** | Solutions d'automatisation et productivité |
+| **🌐 Open Source** | Contributions et projets communautaires |
+| **⚡ Developer Experience** | Amélioration de l'expérience développeur |
 
 ---
 
