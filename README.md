@@ -7,7 +7,6 @@
 ### 🔗 Contact & Réseaux Sociaux
 [![Portfolio](https://img.shields.io/badge/Portfolio-devbyben.fr-00D4AA?style=for-the-badge&logo=firefox)](https://devbyben.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-benoitpetit-181717?style=for-the-badge&logo=github)](https://github.com/benoitpetit)
-[![X.com](https://img.shields.io/badge/X.com-@devbyben-000000?style=for-the-badge&logo=x)](https://x.com/devbyben)
 [![Mastodon](https://img.shields.io/badge/Mastodon-@devbyben-6364FF?style=for-the-badge&logo=mastodon)](https://devbyben.fr/@devbyben)
 [![Email](https://img.shields.io/badge/Contact-contact@devbyben.fr-EA4335?style=for-the-badge&logo=gmail)](mailto:contact@devbyben.fr)
 
@@ -102,7 +101,6 @@ func main() {
 | 📝 **Blog**      | [devbyben.fr/blog](https://devbyben.fr/blog)             | Articles techniques et retours d'expérience |
 | 🚀 **Projets**   | [devbyben.fr/projects](https://devbyben.fr/projects)     | Portfolio de projets open source            |
 | 🐘 **Mastodon**  | [@devbyben@devbyben.fr](https://devbyben.fr/@devbyben)     | Réseau social décentralisé                  |
-| 🐦 **X.com**     | [@devbyben](https://x.com/devbyben)                      | Annonces et discussions techniques          |
 | 💻 **GitHub**    | [github.com/benoitpetit](https://github.com/benoitpetit) | Code source et contributions                |
 
 ### 👨‍💼 Profil Professionnel
