@@ -59,7 +59,7 @@ func main() {
 * **Langages :** Go, Python, JavaScript, TypeScript, Node.js
 * **Frontend :** React, Vue.js, Next.js, HTML5/CSS3
 * **Backend & DB :** REST, GraphQL | PostgreSQL, MongoDB, Redis
-* **DevOps & Infra :** Docker, Ansible, Linux, GitHub Actions, Digital Ocean, Vercel
+* **DevOps & Infra :** Docker, Ansible, Linux, GitHub Actions, Digital Ocean, CloudFlare
 
 ## 🚀 Projets & Articles
 
