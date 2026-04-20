@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ben
 
-🧑‍💻 **Développeur & Artisan Open Source** | 🛠️ **Créateur d'Outils CLI** | 🤖 **Intégration IA**
+**Développeur & Artisan Open Source** | 🛠️ **Créateur d'Outils CLI** | 🤖 **Intégration IA**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devbyben.fr-00D4AA?style=for-the-badge&logo=firefox)](https://devbyben.fr)
 [![Mastodon](https://img.shields.io/badge/Mastodon-@devbyben-6364FF?style=for-the-badge&logo=mastodon)](https://devbyben.fr/@devbyben)
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💻 `whoami`
+## `whoami`
 
 ```go
 package main
@@ -31,14 +31,14 @@ func main() {
     ben := Developer{
         Name:       "Benoit (Ben)",
         Profession: "Développeur & Artisan Solutions Open Source",
-        Location:   "🇫🇷 France",
+        Location:   "France",
         Languages:  []string{"Français", "Anglais"},
         Experience: "8+ années",
         FocusAreas: []string{
-            "🛠️ Outils CLI et Interfaces Développeur",
-            "🤖 Intégration IA et Automatisation",
-            "🚀 Solutions pour la Productivité",
-            "📦 APIs et SDKs",
+            "Outils CLI et Interfaces Développeur",
+            "Intégration IA et Automatisation",
+            "Solutions pour la Productivité",
+            "APIs et SDKs",
         },
         TechStack: []string{
             "Go", "JavaScript", "TypeScript", "Node.js", "Python",
@@ -54,14 +54,14 @@ func main() {
 }
 ```
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 * **Langages :** Go, Python, JavaScript, TypeScript, Node.js
 * **Frontend :** React, Vue.js, Next.js, HTML5/CSS3
 * **Backend & DB :** REST, GraphQL | PostgreSQL, MongoDB, Redis
 * **DevOps & Infra :** Docker, Ansible, Linux, GitHub Actions, Digital Ocean, CloudFlare
 
-## 🚀 Projets & Articles
+## Projets & Articles
 
 J'adore créer des solutions pour améliorer l'expérience développeur (DX) et partager ce que j'apprends en chemin.
 
@@ -70,4 +70,4 @@ J'adore créer des solutions pour améliorer l'expérience développeur (DX) et 
  
 ---
 
-**💬 Envie de collaborer sur un projet innovant ou de discuter technique ? [Envoyez-moi un email !](mailto:contact@devbyben.fr)**
+**💬 Envie de collaborer sur un projet innovant ou de discuter technique ? [Envoyez-moi un pm !](https://piaille.fr/share?text=@devbyben&visibility=direct)**
