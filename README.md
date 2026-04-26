@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ben
 
-**Développeur & Artisan Open Source** | 🛠️ **Créateur d'Outils CLI** | 🤖 **Intégration IA**
+Developer & Open Source Craftsman | CLI Tools Creator | AI Integration
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devbyben.fr-00D4AA?style=for-the-badge&logo=firefox)](https://devbyben.fr)
 [![Mastodon](https://img.shields.io/badge/Mastodon-@devbyben-6364FF?style=for-the-badge&logo=mastodon)](https://devbyben.fr/@devbyben)
@@ -30,44 +30,43 @@ type Developer struct {
 func main() {
     ben := Developer{
         Name:       "Benoit (Ben)",
-        Profession: "Développeur & Artisan Solutions Open Source",
+        Profession: "Developer & Open Source Solutions Craftsman",
         Location:   "France",
-        Languages:  []string{"Français", "Anglais"},
-        Experience: "8+ années",
+        Languages:  []string{"French", "English"},
+        Experience: "8+ years",
         FocusAreas: []string{
-            "Outils CLI et Interfaces Développeur",
-            "Intégration IA et Automatisation",
-            "Solutions pour la Productivité",
-            "APIs et SDKs",
+            "CLI Tools and Developer Interfaces",
+            "AI Integration and Automation",
+            "Productivity Solutions",
+            "APIs and SDKs",
         },
         TechStack: []string{
             "Go", "JavaScript", "TypeScript", "Node.js", "Python",
             "Vue.js", "React", "Docker", "Linux", "Git",
         },
         Specialties: []string{
-            "Command Line Tools", "IA Integration", "Developer Tools",
+            "Command Line Tools", "AI Integration", "Developer Tools",
             "API Development", "Open Source Solutions",
         },
     }
-    
+
     fmt.Printf("Loading profile for: %s...\n", ben.Name)
 }
 ```
 
-## Stack Technique
+## Tech Stack
 
-* **Langages :** Go, Python, JavaScript, TypeScript, Node.js
-* **Frontend :** React, Vue.js, Next.js, HTML5/CSS3
-* **Backend & DB :** REST, GraphQL | PostgreSQL, MongoDB, Redis
-* **DevOps & Infra :** Docker, Ansible, Linux, GitHub Actions, Digital Ocean, CloudFlare
+- Languages: Go, Python, JavaScript, TypeScript, Node.js
+- Frontend: React, Vue.js, Next.js, HTML5/CSS3
+- Backend & DB: REST, GraphQL | PostgreSQL, MongoDB, Redis
+- DevOps & Infra: Docker, Ansible, Linux, GitHub Actions, Digital Ocean, CloudFlare
 
-## Projets & Articles
+## Projects & Articles
 
-J'adore créer des solutions pour améliorer l'expérience développeur (DX) et partager ce que j'apprends en chemin.
-
-- 👉 **[Découvrez tous mes projets sur devbyben.fr/projects](https://devbyben.fr/projects)**
-- 📝 **[Lisez mes articles techniques sur devbyben.fr/blog](https://devbyben.fr/blog)**
+I love creating solutions to enhance developer experience (DX) and sharing what I learn along the way.
+- 👉 **[Explore all my projects on devbyben.fr/projects](https://devbyben.fr/projects)**
+- 📝 **[Read my technical articles on devbyben.fr/blog](https://devbyben.fr/blog)**
  
 ---
 
-**💬 Envie de collaborer sur un projet innovant ou de discuter technique ? [Envoyez-moi un pm !](https://piaille.fr/share?text=@devbyben&visibility=direct)**
+**💬 Interested in collaborating on an innovative project or discussing tech? [Send me a pm!](https://piaille.fr/share?text=@devbyben&visibility=direct)**
